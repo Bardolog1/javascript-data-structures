@@ -1,0 +1,6 @@
+.vscode/
+.prettierrc
+utils.js
+*.json
+.idea
+DS_Store
